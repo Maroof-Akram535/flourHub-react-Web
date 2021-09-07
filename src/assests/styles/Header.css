@@ -1,0 +1,7 @@
+.headerContainer{
+    background-color:wheat;
+    display:flex;  
+    height:100px;
+    border-radius: 8px;
+}
+   
